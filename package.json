@@ -1,0 +1,21 @@
+{
+  "name": "gatsby-remark-code-block-links",
+  "version": "0.0.1",
+  "description": "Add links to related information to markdown code blocks.",
+  "main": "index.js",
+  "repository": "git@github.com:chasm/gatsby-remark-code-block-links.git",
+  "author": "Charles F. Munat <chas@munat.com>",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "remark",
+    "link",
+    "anchor"
+  ],
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "cross-env": "^5.1.3"
+  }
+}
