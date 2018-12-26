@@ -1,5 +1,7 @@
 # gatsby-remark-code-block-links
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chasm/gatsby-remark-code-block-links.svg)](https://greenkeeper.io/)
+
 Add links to related information to markdown code blocks.
 
 ## Install
